@@ -1,6 +1,9 @@
 ## Hi there 👋
 [![Stats](https://github-readme-stats.vercel.app/api?username=Aryak320)](https://github.com/Aryak320/github-readme-stats)
-
+<br>
+<p align="centre">
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aryak320&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
 <!--
 **Aryak320/Aryak320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
